@@ -156,7 +156,7 @@
     }
 }
 
-@media(min-width:415px) {
+@media(min-width:484px) {
 
     nav button {
         display: none;
@@ -171,7 +171,7 @@
     }
 }
 
-@media(min-width:0px) and (max-width:482px) {
+@media(min-width:0px) and (max-width:380px) {
     .item p {
         font-size: 0.8rem;
     }
